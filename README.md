@@ -20,8 +20,7 @@ To access the Jupyter Notebook that I created, run in the root folder of the `ju
 ```{sh}
   .
   |-report
-  |  |- markdown
-  |  |  |- Loan Default Prediction - Imperial College London.md
+  |  |- Loan Default Prediction - Imperial College London.md
   |- Loan Default Prediction - Imperial College London.ipynb
   |- requirements.txt
 ```
